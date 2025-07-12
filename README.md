@@ -1,4 +1,6 @@
 # Booking Card Component – Vishmo Submission
+## 🚀 Live Demo
+[https://[your-vercel-or-netlify-link].vercel.app/](https://booking-card-component.vercel.app/)
 
 ## 👨‍💻 Developer Info
 - **Name:** Akhilesh Yadav  
@@ -17,7 +19,7 @@ This is a simple Booking Card UI built using React and Tailwind CSS. It displays
 - Code is modular and commented
 
 ## 🚀 Live Demo
-https://[your-vercel-or-netlify-link].vercel.app/
+[https://[your-vercel-or-netlify-link].vercel.app/](https://booking-card-component.vercel.app/)
 
 ## 📦 How to Run
 1. Clone the repo  
