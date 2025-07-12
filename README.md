@@ -6,7 +6,7 @@
 - **Name:** Akhilesh Yadav  
 - **Email:** akhileshyadavji7007@gmail.com  
 - **Track:** Frontend  
-- **Submission Date:** [Insert date]
+- **Submission Date:** 12/07/2025
 
 ## 📌 Project Details
 This is a simple Booking Card UI built using React and Tailwind CSS. It displays a service with image, title, provider, and price, and includes responsive design and hover effects.
